@@ -1,0 +1,21 @@
+header {
+    padding: 10px 20px;
+    margin: 20px 20px;
+}
+.imagem-cabeçalho{
+    width: 20%;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.foto-faixada{
+   width: 30%;
+}
+.rodapé{
+    background-color: #424E61;
+    color: #ffffff;
+    text-align: center;
+}
